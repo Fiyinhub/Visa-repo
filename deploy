@@ -1,0 +1,6 @@
+#!/bin/bash
+#! My 1st commit
+echo "I now know what to do"
+echo "Getting better"
+whoami
+date
